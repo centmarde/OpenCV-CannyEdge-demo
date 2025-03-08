@@ -1,0 +1,10 @@
+tensorflow
+fastapi
+uvicorn
+numpy
+pillow
+streamlit
+opencv-python
+plotly
+matplotlib
+ipywidgets
